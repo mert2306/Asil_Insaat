@@ -1,0 +1,18 @@
+﻿@model List<OrtakViewModel>
+
+
+
+@foreach (var item in Model)
+{
+
+
+    <a href="@item.Baglanti" target="_blank">
+
+        <div class="brand-card" style="height:100px;">
+            <img class="img-fluid brand-img" src="~/images/@item.Resim.FileName" alt="@item.Baslik">
+        </div>
+    </a>
+   
+}
+
+

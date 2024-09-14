@@ -1,0 +1,122 @@
+﻿@model ÜrünEklemeViewModel
+
+
+
+<div class="container-xxl flex-grow-1 container-p-y">
+
+
+    <h4 class="py-3 mb-4">
+        <span class="text-muted fw-light">Ürün Yönetimi /</span> Ürün Ekle
+    </h4>
+
+    <div class="row">
+        <div class="col-md-12">
+            <div class="card mb-4">
+                <h5 class="card-header">Ürün</h5>
+                <div class="card-body">
+                    <form asp-controller="Urun" asp-action="Ekle" method="post" enctype="multipart/form-data">
+                        <div asp-validation-summary="ModelOnly"></div>
+                        <div class="form-group">
+                            <a class="btn btn-dark float-end" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">
+                                Satış Birimi Ekle <i class="bx bx-plus"></i>
+                            </a>
+                            <br />
+                            <label asp-for="SatisBirimiId">Satış Birimi Seç</label>
+                            <br />
+                            <select id="kategoriList" class="form-control" asp-for="SatisBirimiId" asp-items="@(new SelectList(Model.SatisBirimis, "Id","Aciklama" ))"></select>
+                            <span asp-validation-for="SatisBirimiId" class="text-danger"></span>
+                        </div>
+                       
+                        <div class="form-group">
+                            <label asp-for="Baslik" id=" defaultFormControlInput" class="form-label">BAŞLIK</label>
+                            <input asp-for="Baslik" type="text" class="form-control mb-3" id="defaultFormControlInput" placeholder="Ekle..." aria-describedby="defaultFormControlHelp" >
+                            <span asp-validation-for="Baslik" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Fiyat" id=" defaultFormControlInput" class="form-label">Fiyat</label>
+                            <input asp-for="Fiyat" type="text" class="form-control mb-3" id="defaultFormControlInput" placeholder="Ekle..." aria-describedby="defaultFormControlHelp" >
+                            <span asp-validation-for="Fiyat" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Aciklama" id=" defaultFormControlInput" class="form-label">Açıklama</label>
+                            <input asp-for="Aciklama" type="text" class="form-control mb-3" id="defaultFormControlInput" placeholder="Ekle..." aria-describedby="defaultFormControlHelp" >
+                            <span asp-validation-for="Aciklama" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Kdv" id=" defaultFormControlInput" class="form-label">Kdv</label>
+                            <select name="Kdv" class="form-control mb-3" id="defaultFormControlInput" placeholder="Ekle..." aria-describedby="defaultFormControlHelp">
+                                <option value="0">0% KDV</option>
+                                <option value="1">1% KDV</option>
+                                <option value="18">18% KDV</option>
+                                <option value="20">20% KDV</option>
+                                <option value="8">8% KDV</option>
+                                <option value="-">KDV HARİÇ</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="UrunTuru" id=" defaultFormControlInput" class="form-label">Ürün Türü</label>
+                            <select name="UrunTuru" class="form-control mb-3" id="defaultFormControlInput" placeholder="Ekle..." aria-describedby="defaultFormControlHelp">
+                                <option value="İş Gücü">İş Gücü</option>
+                                <option value="Malzeme">Malzeme</option>
+                                <option value="Diğer">Diğer</option>
+                            </select>
+
+                        </div>
+                       
+
+                        <div class="form-group">
+                            <label asp-for="Icerik" for="defaultFormControlInput" class="form-label">İÇERİK</label>
+                            <textarea asp-for="Icerik" type="text" class="form-control mb-3" id="defaultFormControlInput" style="min-height:100px" placeholder="Ekle..." aria-describedby="defaultFormControlHelp"> </textarea>
+                            <span asp-validation-for="Icerik" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <button type="submit" class="btn btn-danger btn-dark float-end"> KAYDET </button>
+                        </div>
+
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+ <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLongTitle">Satış Birimi Ekle</h5>
+                <button type="button" class="close btn btn-danger" data-bs-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form>
+                    <div class="form-group ">
+                        <label class="d-block form-label">SATIŞ BİRİMİ EKLE</label>
+                        <input class="form-control " type="text" id="satisBirimiIsim" />
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" data-keyboard="false" class="btn btn-primary" id="btnSave">Değişikliği Kaydet</button>
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Kapat</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+ @section Scripts
+{
+    <script src="~/js/sEkleme.js"> </script>
+    <script>
+
+        var app = app || {};
+        app.Urls = app.Urls || {};
+
+        app.Urls.baseUrls = '@Url.Content("~")';
+
+        app.Urls.SatisBirimiEkleUrl = "@(Url.Action("AddWithAjaxSatis", "SatisBirimi"))";
+        app.Urls.UrunEkleUrl = "@(Url.Action("Ekle", "Urun"))";
+    </script>
+}  

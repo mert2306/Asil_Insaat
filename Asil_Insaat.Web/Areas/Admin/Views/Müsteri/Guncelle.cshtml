@@ -1,0 +1,74 @@
+﻿@model MüsteriGuncellemeViewModel
+
+<div class="container-xxl flex-grow-1 container-p-y">
+
+
+    <h4 class="py-3 mb-4">
+        <span class="text-muted fw-light">Müşteri Yönetimi /</span> Müşteri Güncelle
+    </h4>
+
+    <div class="row">
+        <div class="col-md-12">
+            <div class="card mb-4">
+                <h5 class="card-header">Müşteri</h5>
+
+                <form asp-controller="Müsteri" asp-action="Guncelle" method="post" enctype="multipart/form-data">
+                    <div asp-validation-summary="ModelOnly"></div>
+                    <div class="card-body">
+                        <input type="hidden" asp-for="Id" />
+
+                        <div class="form-group">
+                            <label asp-for="Isim " id="defaultFormControlInput" class="form-label">İsim Soyisim</label>
+                            <input asp-for="Isim" type="text" class="form-control mb-3" id="defaultFormControlInput" placeholder="Ekle..." aria-describedby="defaultFormControlHelp" required="Boş Geçilmez!">
+                            <span asp-validation-for="Isim" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Email" id=" defaultFormControlInput" class="form-label">E-Mail</label>
+                            <input asp-for="Email" type="text" class="form-control mb-3" id="defaultFormControlInput" placeholder="Ekle..." aria-describedby="defaultFormControlHelp">
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Telefon" id=" defaultFormControlInput" class="form-label">Telefon Numarası</label>
+                            <input asp-for="Telefon" type="text" class="form-control mb-3" id="defaultFormControlInput" placeholder="Ekle..." aria-describedby="defaultFormControlHelp">
+                            <span asp-validation-for="Telefon" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Adres" for="defaultFormControlInput" class="form-label">Adres</label>
+                            <textarea asp-for="Adres" type="text" class="form-control mb-3" id="defaultFormControlInput" style="min-height:300px" placeholder="Ekle..." aria-describedby="defaultFormControlHelp" required="Boş Geçilmez!"> </textarea>
+                            <span asp-validation-for="Adres" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Sehir" id=" defaultFormControlInput" class="form-label">Şehir</label>
+                            <input asp-for="Sehir" type="text" class="form-control mb-3" id="defaultFormControlInput" placeholder="Ekle..." aria-describedby="defaultFormControlHelp">
+                            <span asp-validation-for="Sehir" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="PostaKodu" id=" defaultFormControlInput" class="form-label">Posta Kodu</label>
+                            <input asp-for="PostaKodu" type="text" class="form-control mb-3" id="defaultFormControlInput" placeholder="Bilgi İçeriği" aria-describedby="defaultFormControlHelp">
+                            <span asp-validation-for="PostaKodu" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="OdemeSarti" id=" defaultFormControlInput" class="form-label">Ödeme Şartı</label>
+                            <input asp-for="OdemeSarti" type="text" class="form-control mb-3" id="defaultFormControlInput" placeholder="Ekle..." aria-describedby="defaultFormControlHelp">
+                            <span asp-validation-for="OdemeSarti" class="text-danger"></span>
+                        </div>
+                        
+                     
+                        <div class="form-group">
+                            <button type="submit" class="btn btn-primary btn-block"> KAYDET </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+

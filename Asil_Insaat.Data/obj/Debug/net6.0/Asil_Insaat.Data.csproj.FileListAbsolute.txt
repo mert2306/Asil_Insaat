@@ -1,0 +1,95 @@
+C:\Users\melik\Desktop\Asil İnşaat Yapı Yalıtım\Asil_Insaat\Asil_Insaat.Data\bin\Debug\net6.0\Asil_Insaat.Data.deps.json
+C:\Users\melik\Desktop\Asil İnşaat Yapı Yalıtım\Asil_Insaat\Asil_Insaat.Data\bin\Debug\net6.0\Asil_Insaat.Data.runtimeconfig.json
+C:\Users\melik\Desktop\Asil İnşaat Yapı Yalıtım\Asil_Insaat\Asil_Insaat.Data\bin\Debug\net6.0\Asil_Insaat.Data.dll
+C:\Users\melik\Desktop\Asil İnşaat Yapı Yalıtım\Asil_Insaat\Asil_Insaat.Data\bin\Debug\net6.0\Asil_Insaat.Data.pdb
+C:\Users\melik\Desktop\Asil İnşaat Yapı Yalıtım\Asil_Insaat\Asil_Insaat.Data\bin\Debug\net6.0\Asil_Insaat.Core.dll
+C:\Users\melik\Desktop\Asil İnşaat Yapı Yalıtım\Asil_Insaat\Asil_Insaat.Data\bin\Debug\net6.0\Asil_Insaat.Entity.dll
+C:\Users\melik\Desktop\Asil İnşaat Yapı Yalıtım\Asil_Insaat\Asil_Insaat.Data\bin\Debug\net6.0\Asil_Insaat.Entity.pdb
+C:\Users\melik\Desktop\Asil İnşaat Yapı Yalıtım\Asil_Insaat\Asil_Insaat.Data\bin\Debug\net6.0\Asil_Insaat.Core.pdb
+C:\Users\melik\Desktop\Asil İnşaat Yapı Yalıtım\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.csproj.AssemblyReference.cache
+C:\Users\melik\Desktop\Asil İnşaat Yapı Yalıtım\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melik\Desktop\Asil İnşaat Yapı Yalıtım\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.AssemblyInfoInputs.cache
+C:\Users\melik\Desktop\Asil İnşaat Yapı Yalıtım\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.AssemblyInfo.cs
+C:\Users\melik\Desktop\Asil İnşaat Yapı Yalıtım\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.csproj.CoreCompileInputs.cache
+C:\Users\melik\Desktop\Asil İnşaat Yapı Yalıtım\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.csproj.CopyComplete
+C:\Users\melik\Desktop\Asil İnşaat Yapı Yalıtım\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.dll
+C:\Users\melik\Desktop\Asil İnşaat Yapı Yalıtım\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\refint\Asil_Insaat.Data.dll
+C:\Users\melik\Desktop\Asil İnşaat Yapı Yalıtım\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.pdb
+C:\Users\melik\Desktop\Asil İnşaat Yapı Yalıtım\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.genruntimeconfig.cache
+C:\Users\melik\Desktop\Asil İnşaat Yapı Yalıtım\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\ref\Asil_Insaat.Data.dll
+C:\Users\melik\Documents\GitHub\AsilYapi\Asil_Insaat\Asil_Insaat.Data\bin\Debug\net6.0\Asil_Insaat.Data.deps.json
+C:\Users\melik\Documents\GitHub\AsilYapi\Asil_Insaat\Asil_Insaat.Data\bin\Debug\net6.0\Asil_Insaat.Data.runtimeconfig.json
+C:\Users\melik\Documents\GitHub\AsilYapi\Asil_Insaat\Asil_Insaat.Data\bin\Debug\net6.0\Asil_Insaat.Data.dll
+C:\Users\melik\Documents\GitHub\AsilYapi\Asil_Insaat\Asil_Insaat.Data\bin\Debug\net6.0\Asil_Insaat.Data.pdb
+C:\Users\melik\Documents\GitHub\AsilYapi\Asil_Insaat\Asil_Insaat.Data\bin\Debug\net6.0\Asil_Insaat.Core.dll
+C:\Users\melik\Documents\GitHub\AsilYapi\Asil_Insaat\Asil_Insaat.Data\bin\Debug\net6.0\Asil_Insaat.Entity.dll
+C:\Users\melik\Documents\GitHub\AsilYapi\Asil_Insaat\Asil_Insaat.Data\bin\Debug\net6.0\Asil_Insaat.Entity.pdb
+C:\Users\melik\Documents\GitHub\AsilYapi\Asil_Insaat\Asil_Insaat.Data\bin\Debug\net6.0\Asil_Insaat.Core.pdb
+C:\Users\melik\Documents\GitHub\AsilYapi\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.csproj.AssemblyReference.cache
+C:\Users\melik\Documents\GitHub\AsilYapi\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melik\Documents\GitHub\AsilYapi\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.AssemblyInfoInputs.cache
+C:\Users\melik\Documents\GitHub\AsilYapi\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.AssemblyInfo.cs
+C:\Users\melik\Documents\GitHub\AsilYapi\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.csproj.CoreCompileInputs.cache
+C:\Users\melik\Documents\GitHub\AsilYapi\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.csproj.CopyComplete
+C:\Users\melik\Documents\GitHub\AsilYapi\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.dll
+C:\Users\melik\Documents\GitHub\AsilYapi\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\refint\Asil_Insaat.Data.dll
+C:\Users\melik\Documents\GitHub\AsilYapi\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.pdb
+C:\Users\melik\Documents\GitHub\AsilYapi\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.genruntimeconfig.cache
+C:\Users\melik\Documents\GitHub\AsilYapi\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\ref\Asil_Insaat.Data.dll
+C:\Users\melik\Desktop\Asil_Insaat\Asil_Insaat.Data\bin\Debug\net6.0\Asil_Insaat.Data.deps.json
+C:\Users\melik\Desktop\Asil_Insaat\Asil_Insaat.Data\bin\Debug\net6.0\Asil_Insaat.Data.runtimeconfig.json
+C:\Users\melik\Desktop\Asil_Insaat\Asil_Insaat.Data\bin\Debug\net6.0\Asil_Insaat.Data.dll
+C:\Users\melik\Desktop\Asil_Insaat\Asil_Insaat.Data\bin\Debug\net6.0\Asil_Insaat.Data.pdb
+C:\Users\melik\Desktop\Asil_Insaat\Asil_Insaat.Data\bin\Debug\net6.0\Asil_Insaat.Core.dll
+C:\Users\melik\Desktop\Asil_Insaat\Asil_Insaat.Data\bin\Debug\net6.0\Asil_Insaat.Entity.dll
+C:\Users\melik\Desktop\Asil_Insaat\Asil_Insaat.Data\bin\Debug\net6.0\Asil_Insaat.Entity.pdb
+C:\Users\melik\Desktop\Asil_Insaat\Asil_Insaat.Data\bin\Debug\net6.0\Asil_Insaat.Core.pdb
+C:\Users\melik\Desktop\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.csproj.AssemblyReference.cache
+C:\Users\melik\Desktop\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melik\Desktop\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.AssemblyInfoInputs.cache
+C:\Users\melik\Desktop\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.AssemblyInfo.cs
+C:\Users\melik\Desktop\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.csproj.CoreCompileInputs.cache
+C:\Users\melik\Desktop\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.csproj.CopyComplete
+C:\Users\melik\Desktop\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.dll
+C:\Users\melik\Desktop\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\refint\Asil_Insaat.Data.dll
+C:\Users\melik\Desktop\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.pdb
+C:\Users\melik\Desktop\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.genruntimeconfig.cache
+C:\Users\melik\Desktop\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\ref\Asil_Insaat.Data.dll
+C:\Users\melik\Desktop\Çalışmalarım\Asil_Insaat\Asil_Insaat.Data\bin\Debug\net6.0\Asil_Insaat.Data.deps.json
+C:\Users\melik\Desktop\Çalışmalarım\Asil_Insaat\Asil_Insaat.Data\bin\Debug\net6.0\Asil_Insaat.Data.runtimeconfig.json
+C:\Users\melik\Desktop\Çalışmalarım\Asil_Insaat\Asil_Insaat.Data\bin\Debug\net6.0\Asil_Insaat.Data.dll
+C:\Users\melik\Desktop\Çalışmalarım\Asil_Insaat\Asil_Insaat.Data\bin\Debug\net6.0\Asil_Insaat.Data.pdb
+C:\Users\melik\Desktop\Çalışmalarım\Asil_Insaat\Asil_Insaat.Data\bin\Debug\net6.0\Asil_Insaat.Core.dll
+C:\Users\melik\Desktop\Çalışmalarım\Asil_Insaat\Asil_Insaat.Data\bin\Debug\net6.0\Asil_Insaat.Entity.dll
+C:\Users\melik\Desktop\Çalışmalarım\Asil_Insaat\Asil_Insaat.Data\bin\Debug\net6.0\Asil_Insaat.Entity.pdb
+C:\Users\melik\Desktop\Çalışmalarım\Asil_Insaat\Asil_Insaat.Data\bin\Debug\net6.0\Asil_Insaat.Core.pdb
+C:\Users\melik\Desktop\Çalışmalarım\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.csproj.AssemblyReference.cache
+C:\Users\melik\Desktop\Çalışmalarım\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melik\Desktop\Çalışmalarım\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.AssemblyInfoInputs.cache
+C:\Users\melik\Desktop\Çalışmalarım\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.AssemblyInfo.cs
+C:\Users\melik\Desktop\Çalışmalarım\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.csproj.CoreCompileInputs.cache
+C:\Users\melik\Desktop\Çalışmalarım\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.csproj.CopyComplete
+C:\Users\melik\Desktop\Çalışmalarım\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.dll
+C:\Users\melik\Desktop\Çalışmalarım\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\refint\Asil_Insaat.Data.dll
+C:\Users\melik\Desktop\Çalışmalarım\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.pdb
+C:\Users\melik\Desktop\Çalışmalarım\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.genruntimeconfig.cache
+C:\Users\melik\Desktop\Çalışmalarım\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\ref\Asil_Insaat.Data.dll
+C:\Users\melik\Desktop\yedek\Çalışmalarım\Asil_Insaat\Asil_Insaat.Data\bin\Debug\net6.0\Asil_Insaat.Data.deps.json
+C:\Users\melik\Desktop\yedek\Çalışmalarım\Asil_Insaat\Asil_Insaat.Data\bin\Debug\net6.0\Asil_Insaat.Data.runtimeconfig.json
+C:\Users\melik\Desktop\yedek\Çalışmalarım\Asil_Insaat\Asil_Insaat.Data\bin\Debug\net6.0\Asil_Insaat.Data.dll
+C:\Users\melik\Desktop\yedek\Çalışmalarım\Asil_Insaat\Asil_Insaat.Data\bin\Debug\net6.0\Asil_Insaat.Data.pdb
+C:\Users\melik\Desktop\yedek\Çalışmalarım\Asil_Insaat\Asil_Insaat.Data\bin\Debug\net6.0\Asil_Insaat.Core.dll
+C:\Users\melik\Desktop\yedek\Çalışmalarım\Asil_Insaat\Asil_Insaat.Data\bin\Debug\net6.0\Asil_Insaat.Entity.dll
+C:\Users\melik\Desktop\yedek\Çalışmalarım\Asil_Insaat\Asil_Insaat.Data\bin\Debug\net6.0\Asil_Insaat.Entity.pdb
+C:\Users\melik\Desktop\yedek\Çalışmalarım\Asil_Insaat\Asil_Insaat.Data\bin\Debug\net6.0\Asil_Insaat.Core.pdb
+C:\Users\melik\Desktop\yedek\Çalışmalarım\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.csproj.AssemblyReference.cache
+C:\Users\melik\Desktop\yedek\Çalışmalarım\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melik\Desktop\yedek\Çalışmalarım\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.AssemblyInfoInputs.cache
+C:\Users\melik\Desktop\yedek\Çalışmalarım\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.AssemblyInfo.cs
+C:\Users\melik\Desktop\yedek\Çalışmalarım\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.csproj.CoreCompileInputs.cache
+C:\Users\melik\Desktop\yedek\Çalışmalarım\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.dll
+C:\Users\melik\Desktop\yedek\Çalışmalarım\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\refint\Asil_Insaat.Data.dll
+C:\Users\melik\Desktop\yedek\Çalışmalarım\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.pdb
+C:\Users\melik\Desktop\yedek\Çalışmalarım\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Insaat.Data.genruntimeconfig.cache
+C:\Users\melik\Desktop\yedek\Çalışmalarım\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\ref\Asil_Insaat.Data.dll
+C:\Users\melik\Desktop\yedek\Çalışmalarım\Asil_Insaat\Asil_Insaat.Data\obj\Debug\net6.0\Asil_Ins.0308EE6F.Up2Date

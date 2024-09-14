@@ -1,0 +1,281 @@
+﻿<!doctype html>
+<html class="no-js" lang="zxx">
+<head>
+
+
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Asil İnşaat Yapı & Yalıtım</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="manifest" href="site.webmanifest">
+    <link rel="shortcut icon" type="image/x-icon" href="~/Asil/assets/img/AsilIco.ico">
+    <script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
+
+    <!-- CSS here -->
+    <link rel="stylesheet" href="~/Asil/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/Asil/assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="~/Asil/assets/css/slicknav.css">
+    <link rel="stylesheet" href="~/Asil/assets/css/animate.min.css">
+    <link rel="stylesheet" href="~/Asil/assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="~/Asil/assets/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="~/Asil/assets/css/themify-icons.css">
+    <link rel="stylesheet" href="~/Asil/assets/css/slick.css">
+    <link rel="stylesheet" href="~/Asil/assets/css/nice-select.css">
+    <link rel="stylesheet" href="~/Asil/assets/css/style.css">
+    <link rel="stylesheet" href="~/AsilSite/assets/css/Büyütec.css">
+    <link rel="stylesheet" href="~/css/Style6.css">
+
+ 
+    <link rel="stylesheet" href="~/Sayfa2/assets/css/custom.css">
+
+
+</head>
+
+<body>
+    <!-- Preloader Start -->
+    <div id="preloader-active">
+        <div class="preloader d-flex align-items-center justify-content-center">
+            <div class="preloader-inner position-relative">
+                <div class="preloader-circle"></div>
+                <div class="preloader-img pere-text">
+                    <img src="~/Asil/assets/img/logo/logo4.png" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Preloader Start -->
+    <header>
+        <!-- Header Start -->
+        <div class="header-area header-transparent">
+            <div class="main-header ">
+                <div class="header-top d-none d-lg-block">
+                    <div class="container-fluid">
+                        <div class="col-xl-12">
+                        </div>
+                    </div>
+                </div>
+                <div class="header-bottom  header-sticky">
+                    <div class="container-fluid">
+                        <div class="row align-items-center">
+                            <!-- Logo -->
+                            <div class="col-xl-2 col-lg-2 col-md-1">
+                                <div class="logo">
+                                    <!-- logo-1 -->
+                                    <a asp-controller="Home" asp-action="Index" class="big-logo"><img src="~/Asil/assets/img/logo/logo2.png" alt=""></a>
+                                    <!-- logo-2 -->
+                                    <a asp-controller="Home" asp-action="Index" class="small-logo"><img src="~/Asil/assets/img/logo/logo2.png" alt=""></a>
+                                </div>
+                            </div>
+                            <div class="col-xl-8 col-lg-8 col-md-8">
+                                <!-- Main-menu -->
+                                <div class="main-menu f-right d-none d-lg-block">
+                                    <nav>
+                                        <ul id="navigation">
+                                            <li><a asp-controller="Home" asp-action="Index">Anasayfa</a></li>
+                                            <li>
+                                                <a>Kurumsal</a>
+                                                <ul class="submenu">
+                                                    <li><a asp-controller="Home" asp-action="Hakkimizda">Hakkımızda</a></li>
+                                                    <li><a asp-controller="Home" asp-action="Privacy">Gizlilik Politikamız</a></li>
+                                                    <li><a asp-controller="Home" asp-action="Belgelerimiz">Kalite Belgelerimiz</a></li>
+                                                    <li><a asp-controller="Home" asp-action="Referans">Referanslarımız</a></li>
+                                                    <li><a asp-controller="Home" asp-action="Video">Video Galeri</a></li>
+                                                    <li><a asp-controller="Home" asp-action="FotografGaleri">Fotoğraf Galeri</a></li>
+                                                </ul>
+                                            </li>
+                                            <li><a asp-controller="Home" asp-action="CalismaAlanlarimiz">Çalışma Alanlarmız</a></li>
+                                            <li><a asp-controller="Home" asp-action="Iletisim">Bize Ulaşın</a></li>
+
+
+                                        </ul>
+
+                                    </nav>
+                                </div>
+                            </div>
+                            <div class="col-xl-2 col-lg-2 col-md-3">
+                                <div class="header-right-btn f-right d-none d-lg-block">
+                                    <a asp-controller="Home" asp-action="Iletisim" class="btn">Bİze Ulaşın</a>
+                                </div>
+                            </div>
+                            <!-- Mobile Menu -->
+                            <div class="col-12">
+                                <div class="mobile_menu d-block d-lg-none"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Header End -->
+    </header>
+
+
+    @RenderBody()
+
+    <section class="our-brands">
+        <h1>İş Ortaklarımız</h1>
+        <div class="brand-container">
+
+
+            @await Component.InvokeAsync("HomeOrtak")
+
+
+        </div>
+    </section>
+
+
+    <footer>
+        <!-- Footer Start-->
+        <div class="footer-main">
+            <div class="footer-area footer-padding">
+                <div class="container">
+                    <div class="row  justify-content-between">
+                        <div class="col-lg-4 col-md-4 col-sm-8">
+                            <div class="single-footer-caption mb-30">
+                                <!-- logo -->
+                                <div class="footer-logo">
+                                    <a href="index.html"><img src="~/Asil/assets/img/logo/logo2.png" alt=""></a>
+                                </div>
+                                <div class="footer-tittle">
+                                    <div class="footer-pera">
+                                        <p class="info1">Asil İnşaat Yapı & Yalıtım 2021 yılından beri yalıtım ve epoksi uygulamaları ile başta Elazığ olmak üzere bölge illerde sağlığınız için kaliteli ve güvenilir hizmet anlayışıyla faaliyetlerini sürdürmektedir.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-2 col-md-4 col-sm-5">
+                            <div class="single-footer-caption mb-50">
+                                <div class="footer-tittle">
+                                    <h4>Hızlı Ulaşım</h4>
+                                    <ul>
+                                        <li><a asp-controller="Home" asp-action="Index">Anasayfa</a></li>
+                                        <li><a asp-controller="Home" asp-action="Hakkimizda">Hakkımızda</a></li>
+                                        <li><a asp-controller="Home" asp-action="CalismaAlanlarimiz">Çalışma Alanlarmız</a></li>
+                                        <li><a asp-controller="Home" asp-action="Referans">Referanslarımız</a></li>
+                                        <li><a asp-controller="Home" asp-action="Iletisim">Bize Ulaşın</a></li>
+                                        <li><a asp-area="Admin" asp-controller="Auth" asp-action="Giris">Yönetici Paneli</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+                        <div class="col-lg-3 col-md-4 col-sm-7">
+                            <div class="single-footer-caption mb-50">
+                                <div class="footer-tittle">
+                                    <h4>Ulaşım</h4>
+                                    <div class="footer-pera">
+                                        <p class="info1">Sarayatik Mahallesi Adnan Orakçıoğlu Caddesi No:22/A Elazığ/Merkez</p>
+                                    </div>
+                                    <ul>
+                                        <li><a href="tel:05322251249">0(532) 225 12 49</a></li>
+                                        <li><a href="mailto:asilinsaatyapiyalitim@gmail.com">asilinsaatyapiyalitim@gmail.com</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-8">
+                            <div class="single-footer-caption mb-50">
+                                <!-- Form -->
+                                <div class="footer-form">
+                                    <div id="mc_embed_signup">
+                                    </div>
+                                </div>
+                                <!-- Map -->
+                                <div class="map-footer">
+                                    <img src="~/Asil/assets/img/gallery/map-footer.png" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Copy-Right -->
+                    <div class="row align-items-center">
+                        <div class="col-xl-12 ">
+                            <div class="footer-copy-right">
+                                <p>
+                                    Copyright © <script>document.write(new Date().getFullYear());</script> Asil İnşaat Yapı & Yalıtım. Tüm Hakları Saklıdır. Tasarım: <a href="https://colorlib.com" target="_blank">Colorlib</a> , <a href="https://www.linkedin.com/in/mertcan-asil-2a7484164/" target="_blank">Mertcan Asil</a>
+
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Footer End-->
+    </footer>
+
+    <!-- JS here -->
+    <!-- All JS Custom Plugins Link Here here -->
+    <script src="~/Asil/assets/js/vendor/modernizr-3.5.0.min.js"></script>
+    <!-- Jquery, Popper, Bootstrap -->
+    <script src="~/Asil/assets/js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="~/Asil/assets/js/popper.min.js"></script>
+    <script src="~/Asil/assets/js/bootstrap.min.js"></script>
+    <!-- Jquery Mobile Menu -->
+    <script src="~/Asil/assets/js/jquery.slicknav.min.js"></script>
+
+    <!-- Jquery Slick , Owl-Carousel Plugins -->
+    <script src="~/Asil/assets/js/owl.carousel.min.js"></script>
+    <script src="~/Asil/assets/js/slick.min.js"></script>
+    <!-- Date Picker -->
+    <script src="~/Asil/assets/js/gijgo.min.js"></script>
+    <!-- One Page, Animated-HeadLin -->
+    <script src="~/Asil/assets/js/wow.min.js"></script>
+    <script src="~/Asil/assets/js/animated.headline.js"></script>
+    <script src="~/Asil/assets/js/jquery.magnific-popup.js"></script>
+
+    <!-- Scrollup, nice-select, sticky -->
+    <script src="~/Asil/assets/js/jquery.scrollUp.min.js"></script>
+    <script src="~/Asil/assets/js/jquery.nice-select.min.js"></script>
+    <script src="~/Asil/assets/js/jquery.sticky.js"></script>
+
+    <!-- counter , waypoint -->
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
+
+    <script src="~/Asil/assets/js/jquery.counterup.min.js"></script>
+
+    <!-- contact js -->
+    <script src="~/Asil/assets/js/contact.js"></script>
+    <script src="~/Asil/assets/js/jquery.form.js"></script>
+    <script src="~/Asil/assets/js/jquery.validate.min.js"></script>
+    <script src="~/Asil/assets/js/mail-script.js"></script>
+    <script src="~/Asil/assets/js/jquery.ajaxchimp.min.js"></script>
+
+    <!-- Jquery Plugins, main Jquery -->
+    <script src="~/Asil/assets/js/plugins.js"></script>
+    <script src="~/Asil/assets/js/main.js"></script>
+
+    <script src="~/Sayfa2/assets/js/jquery-1.11.0.min.js"></script>
+    <script src="~/Sayfa2/assets/js/jquery-migrate-1.2.1.min.js"></script>
+    <script src="~/Sayfa2/assets/js/bootstrap.bundle.min.js"></script>
+    <script src="~/Sayfa2/assets/js/templatemo.js"></script>
+    <script src="~/Sayfa2/assets/js/custom.js"></script>
+
+
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

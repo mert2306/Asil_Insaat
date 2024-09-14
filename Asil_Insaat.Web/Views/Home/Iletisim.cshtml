@@ -1,0 +1,165 @@
+﻿<link rel="stylesheet" href="~/css/styles5.css">
+
+<div class="slider-area ">
+    <div class="single-slider hero-overly slider-height2 d-flex align-items-center" data-background="/Asil/assets/img/hero/h1_hero.jpg">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="hero-cap pt-100">
+                        <h2>Bİze Ulaşın</h2>
+                        <nav aria-label="breadcrumb ">
+                            <ol class="breadcrumb">
+                                <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Index">Anasayfa</a></li>
+                                <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Iletisim">Bİze Ulaşın</a></li>
+                            </ol>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- slider Area End-->
+<!-- ================ contact section start ================= -->
+<section class="contact-section">
+
+    <div class="viewbag-container" id="back">
+        @if (ViewBag.Succes != null)
+        {
+            <header class="viewbag-header">
+                <h1>Başarılı</h1>
+
+            </header>
+            <section class="viewbag-content">
+                <p class="text-success">@ViewBag.Succes </p>
+            </section>
+            <footer class="viewbag-footer">
+                <p>© 2024 Asil İnşaat Yapı & Yalıtım. Tüm hakları saklıdır.</p>
+            </footer>
+        }
+        @if (ViewBag.Error != null)
+        {
+            <header class="viewbag-header">
+                <h1>Hata Oldu!</h1>
+            </header>
+            <section class="viewbag-content">
+                <p class="text-success">@ViewBag.Error </p>
+            </section>
+            <footer class="viewbag-footer">
+                <p>© 2024  Asil İnşaat Yapı & Yalıtım. Tüm hakları saklıdır.</p>
+            </footer>
+        }
+
+    </div>
+
+    <div class="container">
+
+
+        <div class="row">
+            <div class="col-12">
+                <h2 class="contact-title">Bize Ulaşın</h2>
+            </div>
+            <div class="col-lg-8">
+
+                <div class="col-md-12" >
+                    <div class="contact-form">
+                        <form class="form-contact contact_form" id="contactForm" asp-controller="Home" asp-action="Iletisim" method="post">
+                            
+                               
+                            
+                        </form>
+                    </div>
+                </div>
+
+                <form class="form-contact contact_form" id="contactForm" asp-controller="Home" asp-action="Iletisim" method="post">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div class="form-group">
+                                <fieldset>
+                                    <input class="form-control" name="AdiSoyadi" id="AdiSoyadi" type="text" placeholder="İsİm Soyİsim">
+                                </fieldset>
+                            </div>
+                        </div>
+                        <div class="col-sm-12">
+                            <div class="form-group">
+                                <fieldset>
+                                    <input class="form-control" name="Email" id="Email" type="email" placeholder="E-Posta Adresiniz">
+                                </fieldset>
+                            </div>
+                        </div>
+                        <div class="col-12">
+                            <div class="form-group">
+                                <fieldset>
+                                    <input class="form-control" name="Konu" id="subject" type="text" placeholder="Konu">
+                                </fieldset>
+                            </div>
+                        </div>
+                        <div class="col-12">
+                            <div class="form-group">
+                                <fieldset>
+                                    <textarea class="form-control" name="Mesaj" id="Mesaj" rows="9" placeholder=" Mesajınız"></textarea>
+                                </fieldset>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group mt-3">
+                        <button type="submit" class="button button-contactForm boxed-btn">Gönder</button>
+                    </div>
+                </form>
+            </div>
+
+            <div class="col-lg-3 offset-lg-1">
+                <div class="media contact-info">
+                    <span class="contact-info__icon"><i class="ti-home"></i></span>
+                    <div class="media-body">
+                        <h3>Elazığ/Merkez</h3>
+                        <p>Sarayatik Mahallesi Adnan Orakçıoğlu Caddesi No:22/A</p>
+                    </div>
+                </div>
+                <div class="media contact-info">
+                    <span class="contact-info__icon"><i class="ti-tablet"></i></span>
+                    <div class="media-body">
+                        <h3><a href="tel:05322251249">0(532) 225 12 49</a></h3>
+                        <p>Telefon</p>
+                    </div>
+                </div>
+                <div class="media contact-info">
+                    <span class="contact-info__icon"><i class="ti-email"></i></span>
+                    <div class="media-body">
+                        <h3><a href="mailto:asilinsaatyapiyalitim@gmail.com">asilinsaatyapiyalitim@gmail.com</a></h3>
+                        <p>E-Posta</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="map">
+
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3115.0779072898763!2d39.22200547587992!3d38.6700775600851!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4076c0779acaee81%3A0xf2bb2140a85327f!2zU2FyYXlhdGlrLCBBZG5hbiBPcmFrw6fEsW_En2x1IENkLiBObzoyMiBEOmEsIDIzMTAwIEVsw6J6xLHEnyBNZXJrZXovRWxhesSxxJ8!5e0!3m2!1str!2str!4v1709749220983!5m2!1str!2str" width="100%" height="500px" frameborder="0" style="border:0; border-radius: 10px; box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.15);" allowfullscreen=""></iframe>
+        </div>
+    </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

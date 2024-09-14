@@ -1,0 +1,68 @@
+﻿@model TeklifGuncellemeViewModel
+<div class="container-xxl flex-grow-1 container-p-y">
+
+
+    <h4 class="py-3 mb-4">
+        <span class="text-muted fw-light">Teklif Yönetimi /</span> Teklif Güncelle
+    </h4>
+
+    <div class="row">
+        <div class="col-md-12">
+            <div class="card mb-4">
+                <h5 class="card-header">Teklif</h5>
+
+                <form asp-controller="Teklif" asp-action="Güncelle" method="post" enctype="multipart/form-data">
+                    <div asp-validation-summary="ModelOnly"></div>
+                    <div class="card-body">
+                        <input type="hidden" asp-for="Id" />
+                        <div class="form-group">
+                            <label asp-for="MüsteriId">Müşteri </label>
+
+                            <select id="müsteriList" class="form-control" asp-for="MüsteriId" asp-items="@(new SelectList(Model.Müsteris, "Id","Isim" ))"></select>
+                            <span asp-validation-for="MüsteriId" class="text-danger"></span>
+
+
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="ÜrünId">Ürün</label>
+                            <br />
+                            <select id="ürünList" class="form-control" asp-for="ÜrünId" asp-items="@(new SelectList(Model.Ürüns, "Id","Baslik" ))"></select>
+                            <span asp-validation-for="ÜrünId" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Aciklama" id="defaultFormControlInput" class="form-label">Açıklama</label>
+                            <input asp-for="Aciklama" type="text" class="form-control mb-3" id="defaultFormControlInput" placeholder="Ekle..." aria-describedby="defaultFormControlHelp" required="Boş Geçilmez!">
+                            <span asp-validation-for="Aciklama" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Fiyat" id=" defaultFormControlInput" class="form-label">Fiyat</label>
+                            <input asp-for="Fiyat" type="text" class="form-control mb-3" id="defaultFormControlInput" placeholder="Ekle..." aria-describedby="defaultFormControlHelp">
+                            <span asp-validation-for="Fiyat" class="text-danger"></span>
+                        </div>
+                       @*  <div class="form-group">
+                            <label asp-for="Kdv" id=" defaultFormControlInput" class="form-label">Kdv</label>
+                            <input asp-for="Kdv" type="text" class="form-control mb-3" id="defaultFormControlInput" placeholder="Ekle..." aria-describedby="defaultFormControlHelp">
+                            <span asp-validation-for="Kdv" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="UrunTuru" id=" defaultFormControlInput" class="form-label">Ürün Türü</label>
+                            <input asp-for="UrunTuru" type="text" class="form-control mb-3" id="defaultFormControlInput" placeholder="Bilgi İçeriği" aria-describedby="defaultFormControlHelp">
+                            <span asp-validation-for="UrunTuru" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Icerik" for="defaultFormControlInput" class="form-label">İÇERİK</label>
+                            <textarea asp-for="Icerik" type="text" class="form-control mb-3" id="defaultFormControlInput" style="min-height:100px" placeholder="Ekle..." aria-describedby="defaultFormControlHelp" required="Boş Geçilmez!"> </textarea>
+                            <span asp-validation-for="Icerik" class="text-danger"></span>
+                        </div>
+ *@
+
+                        <div class="form-group">
+                            <button type="submit" class="btn btn-primary btn-block"> KAYDET </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+

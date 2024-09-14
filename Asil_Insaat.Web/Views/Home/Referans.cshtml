@@ -1,0 +1,62 @@
+﻿@model List<FotografViewModel>
+
+
+<link rel="stylesheet" href="~/foto/css/bootstrap.min.css" />
+<link rel="stylesheet" href="~/foto/css/font-awesome.min.css" />
+<link rel="stylesheet" href="~/foto/css/slicknav.min.css" />
+<link rel="stylesheet" href="~/foto/css/fresco.css" />
+
+<!-- Main Stylesheets -->
+<link rel="stylesheet" href="~/foto/css/style.css" />
+
+
+
+
+<div class="slider-area ">
+    <div class="single-slider hero-overly slider-height2 d-flex align-items-center" data-background="/Asil/assets/img/hero/h1_hero.jpg">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="hero-cap pt-100">
+                        <h2>Referanslar</h2>
+                        <nav aria-label="breadcrumb ">
+                            <ol class="breadcrumb">
+                                <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Index">Anasayfa</a></li>
+                                <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Referans">Referanslarımız</a></li>
+                            </ol>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="gallery__page">
+    <div class="gallery__warp">
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-lg-3 col-md-4 col-sm-6">
+                    <a class="gallery__item fresco" href="~/images/@item.Resim.FileName" data-fresco-group="gallery">
+                        <img src="~/images/@item.Resim.FileName" alt="">
+                        <h4 style="text-align:center;"> @item.Baslik</h4>
+
+                    </a> 
+                </div>
+            }
+
+
+        </div>
+    </div>
+</div>
+
+
+
+
+<script src="~/foto/js/vendor/jquery-3.2.1.min.js"></script>
+<script src="~/foto/js/jquery.slicknav.min.js"></script>
+<script src="~/foto/js/slick.min.js"></script>
+<script src="~/foto/js/fresco.min.js"></script>
+<script src="~/foto/js/main.js"></script>

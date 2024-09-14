@@ -1,0 +1,2545 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\melik\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\noty.js",
+      "PackagePath": "staticwebassets\\noty.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\toastr.js",
+      "PackagePath": "staticwebassets\\toastr.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\Asil_Insaat.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Asil_Insaat.Web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\css\\main.css",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\css\\normalize.min.css",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\css\\normalize.min.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\img\\Thumbs.db",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\img\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\img\\logo.png",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\index.html",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\js\\custom.js",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\js\\jquery.nav.js",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\js\\jquery.nav.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\scripts\\shAutoloader.js",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\scripts\\shAutoloader.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushAS3.js",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushAS3.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushAppleScript.js",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushAppleScript.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushBash.js",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushBash.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushCSharp.js",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushCSharp.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushColdFusion.js",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushColdFusion.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushCpp.js",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushCpp.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushCss.js",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushCss.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushDelphi.js",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushDelphi.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushDiff.js",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushDiff.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushErlang.js",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushErlang.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushGroovy.js",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushGroovy.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushJScript.js",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushJScript.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushJava.js",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushJava.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushJavaFX.js",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushJavaFX.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushPerl.js",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushPerl.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushPhp.js",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushPhp.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushPlain.js",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushPlain.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushPowerShell.js",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushPowerShell.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushPython.js",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushPython.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushRuby.js",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushRuby.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushSass.js",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushSass.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushScala.js",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushScala.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushSql.js",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushSql.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushVb.js",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushVb.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushXml.js",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\scripts\\shBrushXml.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\scripts\\shCore.js",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\scripts\\shCore.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\scripts\\shLegacy.js",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\scripts\\shLegacy.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\styles\\shCore.css",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\styles\\shCore.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\styles\\shCoreDefault.css",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\styles\\shCoreDefault.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\styles\\shCoreDjango.css",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\styles\\shCoreDjango.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\styles\\shCoreEclipse.css",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\styles\\shCoreEclipse.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\styles\\shCoreEmacs.css",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\styles\\shCoreEmacs.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\styles\\shCoreFadeToGrey.css",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\styles\\shCoreFadeToGrey.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\styles\\shCoreMDUltra.css",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\styles\\shCoreMDUltra.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\styles\\shCoreMidnight.css",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\styles\\shCoreMidnight.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\styles\\shCoreRDark.css",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\styles\\shCoreRDark.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\styles\\shThemeDefault.css",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\styles\\shThemeDefault.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\styles\\shThemeDjango.css",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\styles\\shThemeDjango.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\styles\\shThemeEclipse.css",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\styles\\shThemeEclipse.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\styles\\shThemeEmacs.css",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\styles\\shThemeEmacs.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\styles\\shThemeFadeToGrey.css",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\styles\\shThemeFadeToGrey.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\styles\\shThemeMDUltra.css",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\styles\\shThemeMDUltra.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\styles\\shThemeMidnight.css",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\styles\\shThemeMidnight.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\Doc\\syntax-highlighter\\styles\\shThemeRDark.css",
+      "PackagePath": "staticwebassets\\Asil\\Doc\\syntax-highlighter\\styles\\shThemeRDark.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\css\\Fotograf.css",
+      "PackagePath": "staticwebassets\\Asil\\assets\\css\\Fotograf.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\Asil\\assets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Asil\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\css\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\Asil\\assets\\css\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\css\\gijgo.css",
+      "PackagePath": "staticwebassets\\Asil\\assets\\css\\gijgo.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\Asil\\assets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\Asil\\assets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\Asil\\assets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Asil\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\Asil\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\css\\slick.css",
+      "PackagePath": "staticwebassets\\Asil\\assets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\css\\slicknav.css",
+      "PackagePath": "staticwebassets\\Asil\\assets\\css\\slicknav.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\Asil\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\Asil\\assets\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\Asil\\assets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\Asil\\assets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\Asil\\assets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\Asil\\assets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\Asil\\assets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\Asil\\assets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\Asil\\assets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\Asil\\assets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\Asil\\assets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\Asil\\assets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\Asil\\assets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\Asil\\assets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\Asil\\assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\Asil\\assets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\Asil\\assets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\Asil\\assets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\Asil\\assets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\Asil\\assets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\Asil\\assets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\img\\AsilIco.ico",
+      "PackagePath": "staticwebassets\\Asil\\assets\\img\\AsilIco.ico"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\img\\belge\\iso.png",
+      "PackagePath": "staticwebassets\\Asil\\assets\\img\\belge\\iso.png"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\img\\belge\\s8.jpeg",
+      "PackagePath": "staticwebassets\\Asil\\assets\\img\\belge\\s8.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\img\\belge\\tse.png",
+      "PackagePath": "staticwebassets\\Asil\\assets\\img\\belge\\tse.png"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\img\\belge\\wp200.jpg",
+      "PackagePath": "staticwebassets\\Asil\\assets\\img\\belge\\wp200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\img\\belge\\yetki.pdf",
+      "PackagePath": "staticwebassets\\Asil\\assets\\img\\belge\\yetki.pdf"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\img\\belge\\yetkiResim.jpg",
+      "PackagePath": "staticwebassets\\Asil\\assets\\img\\belge\\yetkiResim.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\img\\gallery\\4.jpg",
+      "PackagePath": "staticwebassets\\Asil\\assets\\img\\gallery\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\img\\gallery\\arrow_testimonial.png",
+      "PackagePath": "staticwebassets\\Asil\\assets\\img\\gallery\\arrow_testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\img\\gallery\\epoksi.jpg",
+      "PackagePath": "staticwebassets\\Asil\\assets\\img\\gallery\\epoksi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\img\\gallery\\grada2.jpg",
+      "PackagePath": "staticwebassets\\Asil\\assets\\img\\gallery\\grada2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\img\\gallery\\havuz.jpg",
+      "PackagePath": "staticwebassets\\Asil\\assets\\img\\gallery\\havuz.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\img\\gallery\\havuz2.png",
+      "PackagePath": "staticwebassets\\Asil\\assets\\img\\gallery\\havuz2.png"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\img\\gallery\\iki.jpg",
+      "PackagePath": "staticwebassets\\Asil\\assets\\img\\gallery\\iki.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\img\\gallery\\iki.mp4",
+      "PackagePath": "staticwebassets\\Asil\\assets\\img\\gallery\\iki.mp4"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\img\\gallery\\ilk.jpg",
+      "PackagePath": "staticwebassets\\Asil\\assets\\img\\gallery\\ilk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\img\\gallery\\map-footer.png",
+      "PackagePath": "staticwebassets\\Asil\\assets\\img\\gallery\\map-footer.png"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\img\\gallery\\section-bg2.jpg",
+      "PackagePath": "staticwebassets\\Asil\\assets\\img\\gallery\\section-bg2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\img\\gallery\\section-bg3.jpg",
+      "PackagePath": "staticwebassets\\Asil\\assets\\img\\gallery\\section-bg3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\img\\gallery\\sudeposu.png",
+      "PackagePath": "staticwebassets\\Asil\\assets\\img\\gallery\\sudeposu.png"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\img\\gallery\\tank.jpg",
+      "PackagePath": "staticwebassets\\Asil\\assets\\img\\gallery\\tank.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\img\\gallery\\teras.jpg",
+      "PackagePath": "staticwebassets\\Asil\\assets\\img\\gallery\\teras.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\img\\gallery\\teras2.jpg",
+      "PackagePath": "staticwebassets\\Asil\\assets\\img\\gallery\\teras2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\img\\gallery\\teras3.png",
+      "PackagePath": "staticwebassets\\Asil\\assets\\img\\gallery\\teras3.png"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\img\\gallery\\zemin.jpeg",
+      "PackagePath": "staticwebassets\\Asil\\assets\\img\\gallery\\zemin.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\img\\gallery\\zemin2.jpg",
+      "PackagePath": "staticwebassets\\Asil\\assets\\img\\gallery\\zemin2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\img\\gallery\\üc.jpg",
+      "PackagePath": "staticwebassets\\Asil\\assets\\img\\gallery\\üc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\img\\hero\\about.jpg",
+      "PackagePath": "staticwebassets\\Asil\\assets\\img\\hero\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\img\\hero\\h1_hero.jpg",
+      "PackagePath": "staticwebassets\\Asil\\assets\\img\\hero\\h1_hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\img\\hero\\teras.jpeg",
+      "PackagePath": "staticwebassets\\Asil\\assets\\img\\hero\\teras.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\img\\hero\\video.jpeg",
+      "PackagePath": "staticwebassets\\Asil\\assets\\img\\hero\\video.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\img\\icon\\form_icon.png",
+      "PackagePath": "staticwebassets\\Asil\\assets\\img\\icon\\form_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\img\\icon\\services_icon1.png",
+      "PackagePath": "staticwebassets\\Asil\\assets\\img\\icon\\services_icon1.png"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\img\\logo\\logo2.png",
+      "PackagePath": "staticwebassets\\Asil\\assets\\img\\logo\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\img\\logo\\logo4.png",
+      "PackagePath": "staticwebassets\\Asil\\assets\\img\\logo\\logo4.png"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\js\\animated.headline.js",
+      "PackagePath": "staticwebassets\\Asil\\assets\\js\\animated.headline.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Asil\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\js\\contact.js",
+      "PackagePath": "staticwebassets\\Asil\\assets\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\js\\gijgo.min.js",
+      "PackagePath": "staticwebassets\\Asil\\assets\\js\\gijgo.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\Asil\\assets\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\Asil\\assets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\js\\jquery.form.js",
+      "PackagePath": "staticwebassets\\Asil\\assets\\js\\jquery.form.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\js\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\Asil\\assets\\js\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\Asil\\assets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\js\\jquery.paroller.min.js",
+      "PackagePath": "staticwebassets\\Asil\\assets\\js\\jquery.paroller.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\Asil\\assets\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\js\\jquery.slicknav.min.js",
+      "PackagePath": "staticwebassets\\Asil\\assets\\js\\jquery.slicknav.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\Asil\\assets\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\Asil\\assets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\js\\mail-script.js",
+      "PackagePath": "staticwebassets\\Asil\\assets\\js\\mail-script.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\Asil\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\js\\one-page-nav-min.js",
+      "PackagePath": "staticwebassets\\Asil\\assets\\js\\one-page-nav-min.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Asil\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\Asil\\assets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\Asil\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\Asil\\assets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\js\\vendor\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\Asil\\assets\\js\\vendor\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\js\\vendor\\modernizr-3.5.0.min.js",
+      "PackagePath": "staticwebassets\\Asil\\assets\\js\\vendor\\modernizr-3.5.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\Asil\\assets\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\scss\\_blog.scss",
+      "PackagePath": "staticwebassets\\Asil\\assets\\scss\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\scss\\_blog_page.scss",
+      "PackagePath": "staticwebassets\\Asil\\assets\\scss\\_blog_page.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\scss\\_bradcam.scss",
+      "PackagePath": "staticwebassets\\Asil\\assets\\scss\\_bradcam.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\scss\\_color.scss",
+      "PackagePath": "staticwebassets\\Asil\\assets\\scss\\_color.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\scss\\_common.scss",
+      "PackagePath": "staticwebassets\\Asil\\assets\\scss\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\scss\\_contact-with-area.scss",
+      "PackagePath": "staticwebassets\\Asil\\assets\\scss\\_contact-with-area.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\scss\\_contact.scss",
+      "PackagePath": "staticwebassets\\Asil\\assets\\scss\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\scss\\_countDown.scss",
+      "PackagePath": "staticwebassets\\Asil\\assets\\scss\\_countDown.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\scss\\_david-droga.scss",
+      "PackagePath": "staticwebassets\\Asil\\assets\\scss\\_david-droga.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\scss\\_details_page.scss",
+      "PackagePath": "staticwebassets\\Asil\\assets\\scss\\_details_page.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\scss\\_elements.scss",
+      "PackagePath": "staticwebassets\\Asil\\assets\\scss\\_elements.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\scss\\_extend.scss",
+      "PackagePath": "staticwebassets\\Asil\\assets\\scss\\_extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\Asil\\assets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\scss\\_h1-hero.scss",
+      "PackagePath": "staticwebassets\\Asil\\assets\\scss\\_h1-hero.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\scss\\_headerMenu.scss",
+      "PackagePath": "staticwebassets\\Asil\\assets\\scss\\_headerMenu.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Asil\\assets\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\scss\\_overlay.scss",
+      "PackagePath": "staticwebassets\\Asil\\assets\\scss\\_overlay.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\scss\\_project-area.scss",
+      "PackagePath": "staticwebassets\\Asil\\assets\\scss\\_project-area.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\scss\\_services.scss",
+      "PackagePath": "staticwebassets\\Asil\\assets\\scss\\_services.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\scss\\_services_section.scss",
+      "PackagePath": "staticwebassets\\Asil\\assets\\scss\\_services_section.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\scss\\_support-company.scss",
+      "PackagePath": "staticwebassets\\Asil\\assets\\scss\\_support-company.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\scss\\_team.scss",
+      "PackagePath": "staticwebassets\\Asil\\assets\\scss\\_team.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\scss\\_testimonial.scss",
+      "PackagePath": "staticwebassets\\Asil\\assets\\scss\\_testimonial.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Asil\\assets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\scss\\_wantToWork.scss",
+      "PackagePath": "staticwebassets\\Asil\\assets\\scss\\_wantToWork.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Asil\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\Asil\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Yeni\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\css\\style.css",
+      "PackagePath": "staticwebassets\\Yeni\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\js\\main.js",
+      "PackagePath": "staticwebassets\\Yeni\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\Yeni\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\Yeni\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\lib\\lightbox\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\Yeni\\lib\\lightbox\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\lib\\lightbox\\images\\close.png",
+      "PackagePath": "staticwebassets\\Yeni\\lib\\lightbox\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\lib\\lightbox\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\Yeni\\lib\\lightbox\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\lib\\lightbox\\images\\next.png",
+      "PackagePath": "staticwebassets\\Yeni\\lib\\lightbox\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\lib\\lightbox\\images\\prev.png",
+      "PackagePath": "staticwebassets\\Yeni\\lib\\lightbox\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\lib\\lightbox\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\Yeni\\lib\\lightbox\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\Yeni\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Yeni\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Yeni\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Yeni\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\Yeni\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Yeni\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\Yeni\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\Yeni\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Yeni\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Yeni\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Yeni\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\Yeni\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\Yeni\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\Yeni\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\Yeni\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\css\\Style6.css",
+      "PackagePath": "staticwebassets\\css\\Style6.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\css\\style2.css",
+      "PackagePath": "staticwebassets\\css\\style2.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\css\\style4.css",
+      "PackagePath": "staticwebassets\\css\\style4.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\css\\styles3.css",
+      "PackagePath": "staticwebassets\\css\\styles3.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\css\\styles5.css",
+      "PackagePath": "staticwebassets\\css\\styles5.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\foto\\Source\\SlickNav-master.zip",
+      "PackagePath": "staticwebassets\\foto\\Source\\SlickNav-master.zip"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\foto\\Source\\bootstrap-4.4.1-dist.zip",
+      "PackagePath": "staticwebassets\\foto\\Source\\bootstrap-4.4.1-dist.zip"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\foto\\Source\\font-awesome-4.7.0.zip",
+      "PackagePath": "staticwebassets\\foto\\Source\\font-awesome-4.7.0.zip"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\foto\\Source\\fresco-master.zip",
+      "PackagePath": "staticwebassets\\foto\\Source\\fresco-master.zip"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\foto\\Source\\slick-1.8.1.zip",
+      "PackagePath": "staticwebassets\\foto\\Source\\slick-1.8.1.zip"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\foto\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\foto\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\foto\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\foto\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\foto\\css\\fresco.css",
+      "PackagePath": "staticwebassets\\foto\\css\\fresco.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\foto\\css\\fresco\\skins\\fresco\\sprite.png",
+      "PackagePath": "staticwebassets\\foto\\css\\fresco\\skins\\fresco\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\foto\\css\\fresco\\skins\\fresco\\sprite.svg",
+      "PackagePath": "staticwebassets\\foto\\css\\fresco\\skins\\fresco\\sprite.svg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\foto\\css\\slick.css",
+      "PackagePath": "staticwebassets\\foto\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\foto\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\foto\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\foto\\css\\style.css",
+      "PackagePath": "staticwebassets\\foto\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\foto\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\foto\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\foto\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\foto\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\foto\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\foto\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\foto\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\foto\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\foto\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\foto\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\foto\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\foto\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\foto\\js\\fresco.min.js",
+      "PackagePath": "staticwebassets\\foto\\js\\fresco.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\foto\\js\\jquery.slicknav.min.js",
+      "PackagePath": "staticwebassets\\foto\\js\\jquery.slicknav.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\foto\\js\\main.js",
+      "PackagePath": "staticwebassets\\foto\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\foto\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\foto\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\foto\\js\\vendor\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\foto\\js\\vendor\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\foto\\sass\\_about-page.scss",
+      "PackagePath": "staticwebassets\\foto\\sass\\_about-page.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\foto\\sass\\_blog-page.scss",
+      "PackagePath": "staticwebassets\\foto\\sass\\_blog-page.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\foto\\sass\\_blog-single.scss",
+      "PackagePath": "staticwebassets\\foto\\sass\\_blog-single.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\foto\\sass\\_contact-page.scss",
+      "PackagePath": "staticwebassets\\foto\\sass\\_contact-page.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\foto\\sass\\_default.scss",
+      "PackagePath": "staticwebassets\\foto\\sass\\_default.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\foto\\sass\\_footer.scss",
+      "PackagePath": "staticwebassets\\foto\\sass\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\foto\\sass\\_gallery.scss",
+      "PackagePath": "staticwebassets\\foto\\sass\\_gallery.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\foto\\sass\\_header.scss",
+      "PackagePath": "staticwebassets\\foto\\sass\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\foto\\sass\\_helper.scss",
+      "PackagePath": "staticwebassets\\foto\\sass\\_helper.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\foto\\sass\\_hero.scss",
+      "PackagePath": "staticwebassets\\foto\\sass\\_hero.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\foto\\sass\\_loader.scss",
+      "PackagePath": "staticwebassets\\foto\\sass\\_loader.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\foto\\sass\\_menu.scss",
+      "PackagePath": "staticwebassets\\foto\\sass\\_menu.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\foto\\sass\\_mixins.scss",
+      "PackagePath": "staticwebassets\\foto\\sass\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\foto\\sass\\_varriable.scss",
+      "PackagePath": "staticwebassets\\foto\\sass\\_varriable.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\foto\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\foto\\sass\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\referans-images\\AdenApartmani_201.jpg",
+      "PackagePath": "staticwebassets\\images\\referans-images\\AdenApartmani_201.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\referans-images\\BilginParkKonutlari_190.jpg",
+      "PackagePath": "staticwebassets\\images\\referans-images\\BilginParkKonutlari_190.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\referans-images\\EfendiBeyDiamond_925.jpg",
+      "PackagePath": "staticwebassets\\images\\referans-images\\EfendiBeyDiamond_925.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\referans-images\\Elazig-AlacakayaCakmakkayaSuTankiYalitmi_478.jpg",
+      "PackagePath": "staticwebassets\\images\\referans-images\\Elazig-AlacakayaCakmakkayaSuTankiYalitmi_478.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\referans-images\\KayaLife_983.jpg",
+      "PackagePath": "staticwebassets\\images\\referans-images\\KayaLife_983.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\referans-images\\RivaSuit_286.jpg",
+      "PackagePath": "staticwebassets\\images\\referans-images\\RivaSuit_286.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\referans-images\\SahraDeluxe_792.jpg",
+      "PackagePath": "staticwebassets\\images\\referans-images\\SahraDeluxe_792.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\referans-images\\YakamozEvleri_295.jpg",
+      "PackagePath": "staticwebassets\\images\\referans-images\\YakamozEvleri_295.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\user-images\\asdasdassadasd_529.png",
+      "PackagePath": "staticwebassets\\images\\user-images\\asdasdassadasd_529.png"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\2resim_815.png",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\2resim_815.png"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\ASDA_7.jpg",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\ASDA_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\BinaDisiSuYalitmiOncesi_86.jpg",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\BinaDisiSuYalitmiOncesi_86.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\BinaDisiSuYalitmi_894.jpg",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\BinaDisiSuYalitmi_894.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\BinaIciYalitimi_693.jpg",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\BinaIciYalitimi_693.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\COAL-TARMODIFIYEEPOKSIYALITIMVEKORUMABOYASI_728.jpg",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\COAL-TARMODIFIYEEPOKSIYALITIMVEKORUMABOYASI_728.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\EpoksiEsasliIcmeSuyuDepolariIcinHijyenikSonKatKaplamaVeBoya_410.png",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\EpoksiEsasliIcmeSuyuDepolariIcinHijyenikSonKatKaplamaVeBoya_410.png"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\EpoksiEsasliIcmeSuyuDepolariIcinHijyenikSonKatKaplama_603.jpg",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\EpoksiEsasliIcmeSuyuDepolariIcinHijyenikSonKatKaplama_603.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\EpoksiEsasliIcmeSuyuDepolariIcinHijyenikSonKatKaplama_895.jpg",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\EpoksiEsasliIcmeSuyuDepolariIcinHijyenikSonKatKaplama_895.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\GRADASEALPOLIUREA2K_90.png",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\GRADASEALPOLIUREA2K_90.png"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\Grada_834.png",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\Grada_834.png"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\Gurapler_325.png",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\Gurapler_325.png"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\HavuzVeSuDeposuBoyasi_241.jpg",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\HavuzVeSuDeposuBoyasi_241.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\HavuzVeSuDeposuBoyasi_372.jpg",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\HavuzVeSuDeposuBoyasi_372.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\IkiKomponentliPoliuretanElastikSuYalitimKaplamasi_701.jpg",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\IkiKomponentliPoliuretanElastikSuYalitimKaplamasi_701.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\KapaliAlanEpoksiZeminKaplama_607.jpg",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\KapaliAlanEpoksiZeminKaplama_607.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\KapaliAlanEpoksiZeminKaplama_62.jpg",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\KapaliAlanEpoksiZeminKaplama_62.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\KapaliGarajIciveUzeriIcinYalitim_490.jpg",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\KapaliGarajIciveUzeriIcinYalitim_490.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\KapaliGarajIciveUzeriIcinYalitim_786.jpg",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\KapaliGarajIciveUzeriIcinYalitim_786.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\ModulerTankYalitmi_620.jpg",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\ModulerTankYalitmi_620.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\MttArtima_455.png",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\MttArtima_455.png"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\PoliureaEsasliSogukUygulananSuYalitimMalzemesi_300.jpg",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\PoliureaEsasliSogukUygulananSuYalitimMalzemesi_300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\PoliuretanEsasliIkiBilesenliBitumModifiyeliDerzDolguMalzemesi_617.png",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\PoliuretanEsasliIkiBilesenliBitumModifiyeliDerzDolguMalzemesi_617.png"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\SuYalitimiBinaZeminAltiPerdeBetonTerasKaroFayansAltiYalitimi_394.jpeg",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\SuYalitimiBinaZeminAltiPerdeBetonTerasKaroFayansAltiYalitimi_394.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\SuYalitimiBinaZeminAltiPerdeBetonTerasKaroFayansAltiYalitimi_809.jpeg",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\SuYalitimiBinaZeminAltiPerdeBetonTerasKaroFayansAltiYalitimi_809.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\SulamaveYuzmeHavuzuYalitimi_193.png",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\SulamaveYuzmeHavuzuYalitimi_193.png"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\SulamaveYuzmeHavuzuYalitmi_443.png",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\SulamaveYuzmeHavuzuYalitmi_443.png"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\TerasYalitimiSicakPoliureaKaplama_403.png",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\TerasYalitimiSicakPoliureaKaplama_403.png"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\TerasYalitimiSicakPoliureaKaplama_865.png",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\TerasYalitimiSicakPoliureaKaplama_865.png"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\TerasYalitimi_508.mp4",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\TerasYalitimi_508.mp4"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\TerasYalitimi_582.mp4",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\TerasYalitimi_582.mp4"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\TerasYalitimi_737.mp4",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\TerasYalitimi_737.mp4"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\TerasYalitimi_902.mp4",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\TerasYalitimi_902.mp4"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\UzmanEpoksi_214.png",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\UzmanEpoksi_214.png"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\YargiMakina_364.png",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\YargiMakina_364.png"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\ZeminKaplamaUygulamasiUstuneYapilanUltraViyolaIsinlaraKarsiKoruma_168.jpg",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\ZeminKaplamaUygulamasiUstuneYapilanUltraViyolaIsinlaraKarsiKoruma_168.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\ZeminKaplamaUygulamasiUstuneYapilanUltraViyolaIsinlaraKarsiKoruma_51.jpg",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\ZeminKaplamaUygulamasiUstuneYapilanUltraViyolaIsinlaraKarsiKoruma_51.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\asil_361.png",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\asil_361.png"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\deneme_106.png",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\deneme_106.png"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\deneme_479.png",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\deneme_479.png"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\deneme_735.png",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\deneme_735.png"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\deneme_805.mp4",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\deneme_805.mp4"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\galeritest2_92.jpg",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\galeritest2_92.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\images\\yazi-images\\simdi_277.png",
+      "PackagePath": "staticwebassets\\images\\yazi-images\\simdi_277.png"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\js\\KategoriIndex.js",
+      "PackagePath": "staticwebassets\\js\\KategoriIndex.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\js\\Script2.js",
+      "PackagePath": "staticwebassets\\js\\Script2.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\js\\kategoriEkle.js",
+      "PackagePath": "staticwebassets\\js\\kategoriEkle.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\js\\yaziIndex.js",
+      "PackagePath": "staticwebassets\\js\\yaziIndex.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\assets\\css\\demo.css",
+      "PackagePath": "staticwebassets\\sneat\\assets\\css\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\assets\\img\\avatars\\10.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\avatars\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\assets\\img\\favicon\\favicon.ico",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\favicon\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\assets\\img\\illustrations\\11.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\illustrations\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\assets\\js\\config.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\js\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\assets\\js\\dashboards-analytics.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\js\\dashboards-analytics.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\assets\\js\\extended-ui-perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\js\\extended-ui-perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\assets\\js\\form-basic-inputs.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\js\\form-basic-inputs.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\assets\\js\\pages-account-settings-account.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\js\\pages-account-settings-account.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\assets\\js\\ui-modals.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\js\\ui-modals.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\assets\\js\\ui-popover.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\js\\ui-popover.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\assets\\js\\ui-toasts.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\js\\ui-toasts.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\assets\\vendor\\css\\core.css",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\css\\core.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\assets\\vendor\\css\\pages\\page-account-settings.css",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\css\\pages\\page-account-settings.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\assets\\vendor\\css\\pages\\page-auth.css",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\css\\pages\\page-auth.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\assets\\vendor\\css\\pages\\page-icons.css",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\css\\pages\\page-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\assets\\vendor\\css\\pages\\page-misc.css",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\css\\pages\\page-misc.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\assets\\vendor\\css\\theme-default.css",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\css\\theme-default.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\assets\\vendor\\fonts\\boxicons.css",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\fonts\\boxicons.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.eot",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.svg",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.woff",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\assets\\vendor\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\assets\\vendor\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\js\\helpers.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\assets\\vendor\\js\\menu.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\js\\menu.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\assets\\vendor\\libs\\apex-charts\\apex-charts.css",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\libs\\apex-charts\\apex-charts.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\assets\\vendor\\libs\\apex-charts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\libs\\apex-charts\\apexcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\assets\\vendor\\libs\\highlight\\highlight-github.css",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\libs\\highlight\\highlight-github.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\assets\\vendor\\libs\\highlight\\highlight.css",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\libs\\highlight\\highlight.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\assets\\vendor\\libs\\highlight\\highlight.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\libs\\highlight\\highlight.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\assets\\vendor\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\assets\\vendor\\libs\\masonry\\masonry.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\libs\\masonry\\masonry.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\assets\\vendor\\libs\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\libs\\popper\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\fonts\\boxicons.scss",
+      "PackagePath": "staticwebassets\\sneat\\fonts\\boxicons.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\auth-forgot-password-basic.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\auth-forgot-password-basic.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\auth-login-basic.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\auth-login-basic.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\auth-register-basic.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\auth-register-basic.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\cards-basic.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\cards-basic.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\extended-ui-perfect-scrollbar.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\extended-ui-perfect-scrollbar.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\extended-ui-text-divider.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\extended-ui-text-divider.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\form-layouts-horizontal.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\form-layouts-horizontal.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\form-layouts-vertical.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\form-layouts-vertical.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\forms-basic-inputs.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\forms-basic-inputs.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\forms-input-groups.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\forms-input-groups.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\icons-boxicons.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\icons-boxicons.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\index.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\layouts-blank.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\layouts-blank.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\layouts-container.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\layouts-container.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\layouts-fluid.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\layouts-fluid.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\layouts-without-menu.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\layouts-without-menu.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\layouts-without-navbar.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\layouts-without-navbar.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\pages-account-settings-account.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\pages-account-settings-account.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\pages-account-settings-connections.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\pages-account-settings-connections.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\pages-account-settings-notifications.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\pages-account-settings-notifications.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\pages-misc-error.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\pages-misc-error.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\pages-misc-under-maintenance.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\pages-misc-under-maintenance.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\tables-basic.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\tables-basic.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\ui-accordion.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\ui-accordion.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\ui-alerts.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\ui-alerts.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\ui-badges.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\ui-badges.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\ui-buttons.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\ui-buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\ui-carousel.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\ui-carousel.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\ui-collapse.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\ui-collapse.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\ui-dropdowns.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\ui-dropdowns.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\ui-footer.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\ui-footer.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\ui-list-groups.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\ui-list-groups.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\ui-modals.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\ui-modals.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\ui-navbar.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\ui-navbar.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\ui-offcanvas.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\ui-offcanvas.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\ui-pagination-breadcrumbs.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\ui-pagination-breadcrumbs.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\ui-progress.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\ui-progress.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\ui-spinners.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\ui-spinners.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\ui-tabs-pills.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\ui-tabs-pills.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\ui-toasts.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\ui-toasts.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\ui-tooltips-popovers.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\ui-tooltips-popovers.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\html\\ui-typography.html",
+      "PackagePath": "staticwebassets\\sneat\\html\\ui-typography.html"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\sneat\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\sneat\\js\\helpers.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\js\\menu.js",
+      "PackagePath": "staticwebassets\\sneat\\js\\menu.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\libs\\apex-charts\\apex-charts.scss",
+      "PackagePath": "staticwebassets\\sneat\\libs\\apex-charts\\apex-charts.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\libs\\apex-charts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\sneat\\libs\\apex-charts\\apexcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\libs\\highlight\\highlight-github.scss",
+      "PackagePath": "staticwebassets\\sneat\\libs\\highlight\\highlight-github.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\libs\\highlight\\highlight.js",
+      "PackagePath": "staticwebassets\\sneat\\libs\\highlight\\highlight.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\libs\\highlight\\highlight.scss",
+      "PackagePath": "staticwebassets\\sneat\\libs\\highlight\\highlight.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\sneat\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\libs\\masonry\\masonry.js",
+      "PackagePath": "staticwebassets\\sneat\\libs\\masonry\\masonry.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\sneat\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\libs\\perfect-scrollbar\\perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\sneat\\libs\\perfect-scrollbar\\perfect-scrollbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\libs\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\sneat\\libs\\popper\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_accordion.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_alert.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_badge.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_button-group.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_buttons.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_card.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_carousel.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_close.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_forms.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_functions.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_include.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_include.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_list-group.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_mixins.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_modal.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_nav.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_navbar.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_pagination.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_popover.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_progress.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_reboot.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_root.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_spinners.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_tables.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_toasts.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_type.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_utilities-ltr.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_utilities-ltr.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_utilities.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_variables.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_navs.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_navs.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_progress.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_toasts.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_bootstrap.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_colors.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_colors.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_components.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_components\\_app-brand.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_app-brand.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_components\\_avatar.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_avatar.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_components\\_base.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_base.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_components\\_common.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_components\\_footer.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_components\\_include.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_include.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_components\\_layout.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_layout.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_components\\_menu.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_menu.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_components\\_mixins.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_components\\_text-divider.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_text-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_components\\_variables.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_components\\mixins\\_app-brand.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\mixins\\_app-brand.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_components\\mixins\\_avatar.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\mixins\\_avatar.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_components\\mixins\\_footer.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\mixins\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_components\\mixins\\_menu.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\mixins\\_menu.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_components\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_components\\mixins\\_navbar.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\mixins\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_components\\mixins\\_text-divider.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\mixins\\_text-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_custom-variables\\_bootstrap-extended.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_custom-variables\\_bootstrap-extended.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_custom-variables\\_components.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_custom-variables\\_components.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_custom-variables\\_libs.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_custom-variables\\_libs.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_custom-variables\\_pages.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_custom-variables\\_pages.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_custom-variables\\_support.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_custom-variables\\_support.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_theme\\_common.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_theme\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\_theme\\_theme.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_theme\\_theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\core.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\core.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\pages\\page-account-settings.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\pages\\page-account-settings.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\pages\\page-auth.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\pages\\page-auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\pages\\page-icons.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\pages\\page-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\pages\\page-misc.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\pages\\page-misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\scss\\theme-default.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\theme-default.scss"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\tasks\\build.js",
+      "PackagePath": "staticwebassets\\sneat\\tasks\\build.js"
+    },
+    {
+      "Id": "C:\\Users\\melik\\Desktop\\Çalışmalarım\\Asil_Insaat\\Asil_Insaat.Web\\wwwroot\\sneat\\tasks\\prod.js",
+      "PackagePath": "staticwebassets\\sneat\\tasks\\prod.js"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.Asil_Insaat.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.Asil_Insaat.Web.props",
+      "PackagePath": "build\\Asil_Insaat.Web.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Asil_Insaat.Web.props",
+      "PackagePath": "buildMultiTargeting\\Asil_Insaat.Web.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.Asil_Insaat.Web.props",
+      "PackagePath": "buildTransitive\\Asil_Insaat.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

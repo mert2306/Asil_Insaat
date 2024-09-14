@@ -1,0 +1,89 @@
+﻿@model List<YaziViewModel>
+
+<div class="slider-area ">
+    <div class="single-slider hero-overly slider-height2 d-flex align-items-center" data-background="/Asil/assets/img/hero/h1_hero.jpg">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="hero-cap pt-100">
+                        <h2>ÇALIŞMA ALANLARIMIZ</h2>
+                        <nav aria-label="breadcrumb ">
+                            <ol class="breadcrumb">
+                                <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Index">ANASAYFA</a></li>
+                                <li class="breadcrumb-item"><a asp-controller="Home" asp-action="CalismaAlanlarimiz">ÇALIŞMA ALANLARIMIZ</a></li>
+                            </ol>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- slider Area End-->
+<!-- Services Area Start -->
+<div class="services-area1 section-padding30">
+    <div class="container">
+        <!-- section tittle -->
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="section-tittle mb-30">
+                    <div class="front-text">
+                        <h2 class="">ÇALIŞMA ALANLARIMIZ</h2>
+                        <div class="service-icon">
+                            <img src="/Asil/assets/img/icon/services_icon1.png" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xl-4">
+                <form asp-controller="Home" asp-action="Search" method="GET">
+                    <div class="input-group w-100 mx-auto d-flex">
+                        <input type="search" class="form-control p-3" name="keyword" placeholder="Çalışma Alanı Arayın" aria-describedby="search-icon-1">
+                        <button id="search-icon-1" class="input-group-text p-3"><i class="fa fa-search"></i></button>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <br />
+        <br />
+        <br />
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-xl-4 col-lg-4 col-md-6">
+
+                    <div class="single-service-cap mb-30">
+                        <div class="service-img" >
+                            <a asp-controller="Home" asp-action="Incele" asp-route-baslik="@item.Baslik"><img class="" src="~/images/@item.Resim.FileName" alt="" height="400px;"></a>
+                        </div>
+                        <div class="service-cap" style="height:120px;">
+                            <h4><a asp-controller="Home" asp-action="Incele" asp-route-baslik="@item.Baslik">@item.Baslik</a></h4>
+
+                        </div>
+                        <div class="service-icon">
+                            <img src="/Asil/assets/img/icon/services_icon1.png" alt="">
+                        </div>
+                    </div>
+
+                </div>
+            }
+
+            
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+

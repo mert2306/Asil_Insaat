@@ -1,0 +1,97 @@
+﻿@model List<VideoViewModel>
+
+
+<link rel="stylesheet" href="~/css/styles3.css">
+
+
+<div class="slider-area ">
+    <div class="single-slider hero-overly slider-height2 d-flex align-items-center" data-background="/Asil/assets/img/hero/h1_hero.jpg">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="hero-cap pt-100">
+                        <h2>VİDEO GALERİSİ</h2>
+                        <nav aria-label="breadcrumb ">
+                            <ol class="breadcrumb">
+                                <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Index">Anasayfa</a></li>
+                                <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Video">VİDEO GALERİSİ</a></li>
+                            </ol>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<br />
+<br />
+<br />
+
+
+
+
+<div class="gallery">
+    @foreach (var item in Model)
+    {
+
+        <div>
+            <div class="video">
+                <a href="/images/@item.Resim.FileName" class="lightbox">
+                    <video src="~/images/@item.Resim.FileName" alt="video 1" width="280px;" height="400px;"></video>
+                </a>
+                <p class="description" style="text-align:center">@item.Baslik</p>
+            </div>
+            <!-- Add more video items here -->
+        </div>
+
+        <div id="lightbox" class="lightbox-container">
+            <div class="lightbox-content">
+                <span class="close-btn">&times;</span>
+                <iframe id="video-frame" width="560" height="315" src="" frameborder="0" allowfullscreen></iframe>
+            </div>
+        </div>
+    }
+
+</div>
+
+
+<br />
+<br />
+<br />
+<script src="~/js/scripts.js"></script>
+
+
+
+@* <div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="video" onclick="playVideo('/images/@item.Resim.FileName')">
+            <video src="~/images/@item.Resim.FileName" alt="video 1"></video>
+            <div class="video-description">
+                <h3>@item.Baslik</h3>
+                <p>@item.İcerik.</p>
+            </div>
+        </div>
+
+        <div class="gallery">
+            <div class="video" onclick="playVideo('/images/@item.Resim.FileName')">
+                <video src="~/images/@item.Resim.FileName" alt="video 1"></video>
+            </div>
+            <div class="video-description">
+                <h3>@item.Baslik</h3>
+                <p>Bu alanda istediğiniz metni ekleyebilirsiniz.</p>
+            </div>
+            <!-- Diğer video resimlerini ve videoları buraya ekle -->
+        </div>
+
+        <div class="modal" id="videoModal">
+            <span class="close" onclick="closeModal()">&times;</span>
+            <video id="videoPlayer" controls>
+                Your browser does not support the video tag.
+            </video>
+        </div>
+
+
+    }
+</div>
+ *@

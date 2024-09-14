@@ -1,0 +1,64 @@
+﻿@model List<YaziViewModel>
+
+
+
+<div class="container-xxl flex-grow-1 container-p-y">
+
+
+    <h4 class="py-3 mb-4">
+        <span class="text-muted fw-light">Yazı Yönetimi /</span> Yazılar
+    </h4>
+
+    <!-- Basic Bootstrap Table -->
+    <div class="card">
+        <h5 class="card-header"></h5>
+        <div class="table-responsive text-nowrap m-3">
+
+
+            <table class="table table-bordered" id="yazisTable" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>Kategorİ</th>
+                        <th>Başlık</th>
+                        <th>Oluşturulma Tarİhİ</th>
+                        <th>Durum</th>
+                        <th>İşlemler</th>
+                    </tr>
+                </thead>
+
+                <tbody class="table-border-bottom-0">
+                    @foreach (var yazi in Model)
+                    {
+                        <tr name="@yazi.Id">
+                            <td>@yazi.Kategori.Isim</td>
+                            <td>@yazi.Baslik</td>
+                            <td>@yazi.OlusturulmaTarihi.ToShortDateString()</td>
+                            <td>@(yazi.SilinmisMi ? "SİLİNMİŞ" : "AKTİF")</td>
+                            <td>
+
+                                <a class="btn btn-warning btn-sm" data-id="@yazi.Id" asp-area="Admin" asp-controller="Yazi" asp-action="GeriSilme" asp-route-yaziId="@yazi.Id">
+                                    <i class='bx bx-undo'></i>
+
+
+                                </a>
+                           
+                            </td>
+                        </tr>
+                    }
+
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+</div>
+
+
+@section Scripts{
+    <script src="~/js/yaziIndex.js" type="application/ecmascript"></script>
+
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <link rel="stylesheet" href="~/web/alertify.min.js" />
+ }
